@@ -1,4 +1,9 @@
-# Next.js + Tailwind CSS Example
+# ROas to Web 3 Week 4
+
+This project creates a NFT gallery webpage where you can display NFTs for a speciic owner and/or collection
+
+
+## Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
