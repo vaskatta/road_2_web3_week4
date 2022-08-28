@@ -6,9 +6,16 @@
     "start": "next start"
   },
   "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "async_hooks": "^1.0.0",
     "next": "latest",
+    "node-fetch": "^3.2.10",
     "react": "18.1.0",
-    "react-dom": "18.1.0"
+    "react-copy-to-clipboard": "^5.1.0",
+    "react-dom": "18.1.0",
+    "react-use-clipboard": "1.0.8",
+    "styled-components": "^5.3.5",
+    "use-clippy": "^1.0.8"
   },
   "devDependencies": {
     "@types/node": "17.0.35",
