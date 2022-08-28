@@ -1,4 +1,4 @@
-# ROas to Web 3 Week 4
+# Road to Web 3 Week 4
 
 This project creates a NFT gallery webpage where you can display NFTs for a speciic owner and/or collection
 
